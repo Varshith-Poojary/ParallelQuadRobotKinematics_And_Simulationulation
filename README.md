@@ -1,4 +1,4 @@
-# Parallel Linked Quadruped Robot Kinematics
+# Parallel Linked Quadruped Robot Forward Kinematics
 
 This repository contains MATLAB code and Simulink models for simulating and visualizing the kinematics of a parallel-linked quadruped robot. The repository includes the following components:
 
