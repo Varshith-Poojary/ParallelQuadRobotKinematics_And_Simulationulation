@@ -18,7 +18,7 @@ The parameters used in the MATLAB script are defined as follows:
 - **`E`, `F`**: Additional parameters
 - **`theta1_deg`, `theta2_deg`**: Active-Joint angles in degrees
 
-![Parameter Diagram](path/to/your/parameter_diagram.png)
+![Parameter Diagram](https://github.com/Varshith-Poojary/ParallelQuadRobotKinematics_And_Simulationulation/blob/main/parameter.png)
 
 ## Simulink Models
 
